@@ -6,6 +6,9 @@ The dashboard provides insights into pricing, availability, locations, and custo
 
 ---
 
+<img width="1326" height="748" alt="image" src="https://github.com/user-attachments/assets/4f0ec80f-f012-40fc-80e5-e8c1132b8357" />
+
+
 ## 📊 Project Objectives
 - Understand **pricing trends** across different regions and property types  
 - Analyze **occupancy & availability** patterns  
