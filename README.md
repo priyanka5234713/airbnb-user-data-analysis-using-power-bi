@@ -5,7 +5,7 @@ This project focuses on analyzing Airbnb listings, hosts, and booking trends usi
 The dashboard provides insights into pricing, availability, locations, and customer preferences to support **data-driven decision making**.  
 
 ---
-
+Airbnb Dasboard
 <img width="1326" height="748" alt="image" src="https://github.com/user-attachments/assets/4f0ec80f-f012-40fc-80e5-e8c1132b8357" />
 
 
